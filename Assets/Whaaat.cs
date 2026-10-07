@@ -7,6 +7,8 @@ public class Whaaat : MonoBehaviour
     {
         print("german, querés?");
         print("no, no quiero");
+        print("no, es que-");
+        print("no, no quiero federico, estoy agotado con el tema, basta, violetta no va a viajar");
     }
 
     // Update is called once per frame
