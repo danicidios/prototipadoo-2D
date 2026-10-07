@@ -6,6 +6,7 @@ public class Whaaat : MonoBehaviour
     void Start()
     {
         print("german, querés?");
+        print("no, no quiero");
     }
 
     // Update is called once per frame
