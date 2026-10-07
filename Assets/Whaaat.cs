@@ -13,6 +13,7 @@ public class Whaaat : MonoBehaviour
         print("ellaaa, ella si queria anotarse en esa competencia tendría que habermelo dicho");
         print("pero");
         print("ella sabia que el premio era un viaje, lo sabiaaa, sabia que tenía posibildad de ganarlo y no dijo nada, bueno ahora listo ya está");
+        print("solo te iba a preguntar si querias agua");
     }
 
     // Update is called once per frame
